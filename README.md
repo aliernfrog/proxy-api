@@ -1,5 +1,5 @@
 # Proxy API
-API used to proxy webhook requests from my apps such as [PF Tool](git remote add origin https://github.com/aliernfrog/pf-tool) and [LAC Tool](git remote add origin https://github.com/aliernfrog/lac-tool)
+API used to proxy webhook requests from my apps such as [PF Tool](https://github.com/aliernfrog/pf-tool) and [LAC Tool](https://github.com/aliernfrog/lac-tool)
 
 ## Running
 - Add following entries to `.env` file:
